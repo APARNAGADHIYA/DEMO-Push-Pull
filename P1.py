@@ -12,3 +12,5 @@ c=89
 print(a,b,c)
 a=a+10
 print(a)
+print(a+10)
+print(a+b)
